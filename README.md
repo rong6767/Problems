@@ -1,3 +1,3 @@
 # Problems
-# my learning process
-# difficulties that i met
+ my learning process
+ difficulties that i met
