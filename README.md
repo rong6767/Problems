@@ -1,3 +1,3 @@
 # Problems
- my learning process"\n"
+ my learning process
  difficulties that i met
